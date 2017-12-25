@@ -1,2 +1,2 @@
 # AI
-A* star algorithm.
+Implementation of A* star algorithm as a part of DIY.
